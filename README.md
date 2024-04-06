@@ -1,53 +1,46 @@
-# md-resume
+# Tucker Hoppe
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
-
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
-
+Computer Scientist passionate about solving problems, being a team player and quick, effective learning.
 ***
 
-## Customization
+## Education
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+Computer Science
+Brigham Young University - Idaho
+MONTH 2019 - 2024
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Experience
 
-adding your skills, jobs and education.
+Web Content Publisher
+BYU-Idaho
+   • Redesigned, published, and consolidated over 75 pages on BYU-Idaho's school website while working on a team.
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+Missionary August 2017 - September 2019 Church of Jesus Christ of Latter Day Saints Ohio, Cincinnati, OH
+• Set and accomplished weekly and long-term teaching and personal improvement goals. Trained and Counseled over 60 missionaries in teaching and adjusting to rigorous schedules.
+• Gave up personal time for two years in order to serve, teach and help with religious observance.
 
-## Distribution
+## Projects
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+Software Developer
+Custom Dice mobile App- Swift
+August 2022 - Present
+Rexburg, Idaho
+    • Wrote a dice app from scratch to beta testing. Took feedback from over 10 users and made plans to implement solutions. • Overcame difficulties in receiving approval to test on test flight.
+    
+Software Developer
+Conversion Web App-Python
+• Developed a web app to help students practice and study 13 metric conversions.
+• Communicated closely with 4 other team members.
+• Lead 4 team members on conversion formula code and connecting URLs to the homepage.
 
-### I. Use Github Pages to publish it online
+Software Developer
+Earth Bender Game - Python Side Scroller
+• Wrote and implemented 0ver 35 functions and 7 classes to create an original 2d computer game. • Created over 20 different image files to animate from scratch.
+• Added new features beyond basic functionality to make game more enjoyable.
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
 
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
 
 ### Author
 
